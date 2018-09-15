@@ -1,0 +1,8 @@
+name: RuneSystem
+main: com.qiyue.Main
+version: 2.0.0
+author: qiyue
+depend: [AttributeAPI]
+softdepend: [PlaceholderAPI,Vault]
+commands:
+  rune:
